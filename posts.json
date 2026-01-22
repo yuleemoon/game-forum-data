@@ -6,12 +6,6 @@
     "content": "hello",
     "date": "2026-01-22T11:19:05.740Z",
     "likes": 0,
-    "comments": [
-      {
-        "username": "1234",
-        "content": "测试中",
-        "date": "2026-01-22T11:28:48.208Z"
-      }
-    ]
+    "comments": []
   }
 ]
